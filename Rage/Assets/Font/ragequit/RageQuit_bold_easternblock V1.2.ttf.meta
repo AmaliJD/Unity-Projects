@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ccef227b4998cd044a9180e27f5d6db4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RageQuit_bold_easternblock_v1.2
+  fontNames:
+  - RageQuit_bold_easternblock_v1.2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
